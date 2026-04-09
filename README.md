@@ -163,19 +163,6 @@ const haseeb = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebsohail1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebsohail1&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebsohail1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
-</p>
-
----
-
 ## ✍️ Latest on Medium
 
 > I write about software engineering, system design, and AI/ML on [Medium](https://medium.com/@haseeb_sohail).
